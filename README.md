@@ -2,7 +2,7 @@
 Here, I share some of my notebooks, working with the PyTorch library on Deep Learning tasks (Computer Vision). 
 All the notebooks are in the context of Image Classification and Object Detection.
 Models are based on CNN and Vision Transformers (Swin Transformer).
-- __An image classification using a CNN and regularization terms (dropOut, batch normalization), using the MNIST dataset.__
+- __An image classification using a CNN and regularization terms (Dropout and batch normalization), using the MNIST dataset.__
     - Data preprocessing steps
     - DataLoaders
     - Building the model
